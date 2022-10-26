@@ -53,7 +53,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JTbox1172&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=JTbox1172&theme=highcontrast&hide_border=true)]()
 
 <img style="height: 400px; " src="https://wakatime.com/share/@Cayden/8eda0699-a3e2-42e3-be90-067f8ec5f8a1.svg"/>
 
