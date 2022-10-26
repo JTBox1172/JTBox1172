@@ -42,8 +42,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ### :fire: My Stats :
-
-<img style="height: 400px; width: 300px; " src="https://streak-stats.demolab.com?user=JTbox1172&theme=highcontrast&hide_border=true"/>
+<img style="height: 400px; width: 600px; " src="https://streak-stats.demolab.com?user=JTbox1172&theme=highcontrast&hide_border=true"/>
 <img style="height: 400px; " src="https://wakatime.com/share/@JosephBox/639bc6f1-fdde-43c6-8804-9b708b170398.svg"/>
 
 <a href="https://wakatime.com/@2dcec6b1-836e-4ca5-a208-9c04df53027c"><img src="https://wakatime.com/badge/user/2dcec6b1-836e-4ca5-a208-9c04df53027c.svg" alt="Total time coded since Mar 16 2022" /></a>
