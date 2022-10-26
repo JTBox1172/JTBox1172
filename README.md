@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=CaydenBurns&style=flat-square&color=blue" alt=""/>
 <h1>
   Hey There 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -20,15 +19,11 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Inglewood California !
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Prattville Alabama !
 
- :telescope: I love contributing to full stack applications.
+ :zap: In my free time, I spend time in the greenest of nature, contribute to open source, play sports such as Basketball or Baseball, and CODE HARDER !
 
- :seedling: Exploring Technical Content Writing and Starting up my tech journey Blog as well as advanced data structures and algortithms.
-
- :zap: In my free time, I spend time in the greenest of nature, contribute to open source, mentor inner-city youth in Los Angeles and CODE HARDER !
-
- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Cayden-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/caydenburns/)
+ :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Joseph-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-tyler-box/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
