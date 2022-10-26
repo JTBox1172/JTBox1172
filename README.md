@@ -58,6 +58,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <img style="height: 400px; " src="https://wakatime.com/share/@Cayden/8eda0699-a3e2-42e3-be90-067f8ec5f8a1.svg"/>
 
-<a href="https://wakatime.com/@0f00e971-4774-4a4d-bde7-d4680c553cf9"><img src="https://wakatime.com/badge/user/0f00e971-4774-4a4d-bde7-d4680c553cf9.svg" alt="Total time coded since Jun 8 2022" /></a>
+<a href="https://wakatime.com/@2dcec6b1-836e-4ca5-a208-9c04df53027c"><img src="https://wakatime.com/badge/user/2dcec6b1-836e-4ca5-a208-9c04df53027c.svg" alt="Total time coded since Mar 16 2022" /></a>
   
  </div>
