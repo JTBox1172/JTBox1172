@@ -3,11 +3,8 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/caydenburns/">
+  <a href="https://www.linkedin.com/in/joseph-tyler-box">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/SUDOcayden">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=CaydenBurns&style=flat-square&color=blue" alt=""/>
@@ -64,8 +61,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <a href="https://wakatime.com/@0f00e971-4774-4a4d-bde7-d4680c553cf9"><img src="https://wakatime.com/badge/user/0f00e971-4774-4a4d-bde7-d4680c553cf9.svg" alt="Total time coded since Jun 8 2022" /></a>
   
  </div>
-
-<!---
-CaydenBurns/CaydenBurns is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
